@@ -266,6 +266,11 @@ header {
 
 
 @media (max-width:700px) {
+
+    .header__item > img {
+        width: 100%;
+    }
+
     .wrap__what {
         text-align: center;
         flex-wrap: wrap;
