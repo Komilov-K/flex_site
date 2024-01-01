@@ -291,6 +291,7 @@ header {
 
     .wrap__colums .title {
         font-size: 23px;
+        text-align: center;
     }
 
     .wrap__card .card {
@@ -336,5 +337,10 @@ header {
 
     .will__card__description button {
         font-size: 17px;
+    }
+
+    .wrap__vertical h1 {
+        font-size: 23px;
+        text-align: center;
     }
 }
